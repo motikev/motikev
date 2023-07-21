@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @motikev
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JavaScript, React.js, Python, Flask.
-- 💞️ I’m looking to collaborate on web applications, technical problems solving;
-- 📫 How to reach me Kmotties@gmail.com
+- 👋 Hi, I’m @motikev:
+- 👀 I’m interested in Web development, mobile app development, data science, artificial intelligence, cybersecurity;
+- 🌱 I’m currently learning JavaScript, React.js, Python, Flask, Ruby on Rails;
+- 💞️ I’m looking to collaborate on internships, freelance projects, open-source contributions, or full-time employment;
+- 📫 How to reach me at +254708054757, kmotties@gmail.com.
 
 <!---
 motikev/motikev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
